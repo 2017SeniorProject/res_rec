@@ -1,0 +1,32 @@
+res_id,name,category
+1,shishigege,cafeteria
+1,shishigege,taiwan food
+1,shishigege,noodle
+1,shishigege,rice
+1,shishigege,bread
+2,818,taiwan food
+2,818,fastfood
+2,818,cafeteria
+2,818,noodle
+2,818,rice
+3,schoolcafeteria,cafeteria
+3,schoolcafeteria,taiwan food
+3,schoolcafeteria,noodle
+3,schoolcafeteria,rice
+3,schoolcafeteria,bread
+4,1st floor café,"italian food,western food, noodle, rice, bread"
+4,2nd floor café,western food
+4,3rd floor café,noodle
+4,4th floor café,rice
+4,5th floor café,bread
+5,school convenience store,snack
+5,school convenience store,fastfood
+6,macdonal,fastfood
+6,macdonal,western food
+7,mosburger,fastfood
+7,mosburger,western food
+8,bawan,fastfood
+8,bawan,noodle
+8,bawan,rice
+9,pearlmilktea,beverage
+9,pearlmilktea,milktea
