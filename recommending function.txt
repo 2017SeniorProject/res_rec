@@ -1,0 +1,15 @@
+Recommending function:
+1. Restaurant near you
+	input:
+		-user's current location///get from some service
+		-maybe the division(area)///user's input (selection drop down)
+		-category(selection drop down)
+	output: 10 to 20 restaurant near by
+2.Restaurant recommendation by month:
+	input:
+		-the division(area)///dropdown 
+		-month///1-12//dropdown
+		-category////dropdown
+	output: 10 to 20 restaurant
+
+	
