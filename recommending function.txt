@@ -4,7 +4,7 @@ Recommending function:
 		-user's current location///get from some service
 		-maybe the division(area)///user's input (selection drop down)
 		-category(selection drop down)
-		-price
+		-price[0---maxprice]
 	output: 10 to 20 restaurant near by
 2.Restaurant recommendation by month:
 	input:
