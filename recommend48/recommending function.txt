@@ -1,0 +1,9 @@
+Recommending function:
+1. Restaurant near you
+	input: user's current location, (maybe the division(area))
+	output: 10 to 20 restaurant near by
+2.Restaurant recommendation by month:
+	input: the division(area), month
+	output: 10 to 20 restaurant
+
+	
